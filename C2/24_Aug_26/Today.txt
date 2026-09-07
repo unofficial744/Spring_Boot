@@ -1,0 +1,3 @@
+# 1D Array
+# Use Array.length function
+# 2D Array
