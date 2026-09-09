@@ -1,0 +1,12 @@
+# OOPS  Concepts.
+
+#Abstraction : Show only necessery details hidding unnecssery details.
+
+#Encapsulation: Wrap Bindding data and methods in a single unit. 
+
+#Inheritance: It is mechanism in java by which 
+one class allowed in inherit the feature(method) of another class.
+
+#Polymorphism: Poly(many)  and morph(forms).
+This means one entity can take many forms.
+
