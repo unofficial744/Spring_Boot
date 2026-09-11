@@ -1,4 +1,0 @@
-# Get Mehtod
-# Set Mehtod
-
-# Mehtod Overriding

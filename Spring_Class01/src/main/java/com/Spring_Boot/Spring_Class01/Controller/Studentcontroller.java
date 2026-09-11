@@ -1,12 +1,13 @@
 package com.Spring_Boot.Spring_Class01.Controller;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+// import org.springframework.web.bind.annotation.RestController;
 
 
 
-@RestController 
+@Controller 
 public class Studentcontroller {
 
     @GetMapping ("/")
@@ -15,7 +16,7 @@ public class Studentcontroller {
         model.addAttribute("name" ,"Gyan");
         model.addAttribute("course" ,"BCA, B.tech");
 
-        return "student";
+        return "student";  //Maps to /WEB-INT\jsp/student.jsp
 	
     }
 

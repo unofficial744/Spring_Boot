@@ -1,4 +1,4 @@
-class Methods{
+class cls{
 
     public void meth(){
         int x = 20;
@@ -28,7 +28,7 @@ class Methods{
     }
 
     public static void main(String[] args) {
-       Methods obj = new Methods();
+       cls obj = new cls();
        obj.meth();
        meth2();
        

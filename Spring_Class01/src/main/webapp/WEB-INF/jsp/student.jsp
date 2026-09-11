@@ -14,9 +14,9 @@
     <h1>Student Management System</h1>
     <hr>
     <h2>Student details</h2>
-    <p>ID:$(id)</p>
-    <p>Name:$(name)</p>
-    <p>Cousre:$(course)</p>
+    <p>ID:${id}</p>
+    <p>Name:${name}</p>
+    <p>Cousre:${course}</p>
 </body>
 
 </html>

@@ -1,0 +1,1 @@
+# Beam: to create and managed the object by spring is called a Spring Bean.
